@@ -23,6 +23,7 @@ li {
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
+	color: #000000;
 }
 
 .text-vcenter h1 {
@@ -102,6 +103,11 @@ div.quote {
 blockquote p{
 	font-size: 2em;
 	font-style: italic;
+	color: #FFFFFF;
+}
+
+.mb-author {
+	color: #FFFFFF;
 }
 
 
